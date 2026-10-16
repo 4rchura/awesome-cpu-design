@@ -51,7 +51,7 @@ Completely free academic course contents shared by top universities:
 ## 3. Free Courses and Certified Programs
 
 - [Linux Foundation LFD111x: Building a RISC-V CPU Core](https://training.linuxfoundation.org/training/building-a-risc-v-cpu-core-lfd111x/) - A great free course on edX that teaches design from digital logic gates to a RISC-V CPU core using the Makerchip IDE.
-- [RISC-V International Training](https://riscv.org/risc-v-training/) - Browser-based RISC-V CPU building courses using modern tools.
+- [RISC-V International Training](https://riscv.org/community/training/) - Browser-based RISC-V CPU building courses using modern tools.
 - [riscv/learn (GitHub)](https://github.com/riscv/learn) - A massive official community "awesome list" covering RISC-V microarchitecture design, OS development, and IM architecture basics.
 
 ## 4. Open Source Processor Cores (RTL)
@@ -70,7 +70,7 @@ Suitable core codes (MIT/Apache/BSD) for reviewing, simulating, and deriving in 
 - [Ripes](https://github.com/mortbopet/Ripes) - A fantastic graphical (GUI) RISC-V pipeline simulator. You can visually see how instructions advance through the processor.
 - [Spike (riscv-isa-sim)](https://github.com/riscv-software-src/riscv-isa-sim) - The original and official ISA simulator.
 - [QEMU](https://www.qemu.org/) - The legendary system emulator supporting architectures like RISC-V, ARM, etc.
-- **Open Source EDA Tools:** [Verilator](https://www.veripool.org/verilator/), [Icarus Verilog](http://iverilog.icarus.com/), [Yosys](https://yosyshq.net/yosys/), and [nextpnr](https://github.com/YosysHQ/nextpnr) for synthesis, placement, and simulation.
+- **Open Source EDA Tools:** [Verilator](https://www.veripool.org/verilator/), [Icarus Verilog](https://steveicarus.github.io/iverilog/), [Yosys](https://yosyshq.net/yosys/), and [nextpnr](https://github.com/YosysHQ/nextpnr) for synthesis, placement, and simulation.
 - [Logisim-Evolution](https://github.com/logisim-evolution/logisim-evolution) - A great tool where you can visually draw and simulate your circuit from the gate level.
 
 ## 6. Free / Open Access Books
